@@ -1,0 +1,7 @@
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\bin\Debug\ToyRobotPuzzle.exe.config
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\bin\Debug\ToyRobotPuzzle.exe
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\bin\Debug\ToyRobotPuzzle.pdb
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\obj\Debug\ToyRobotPuzzle.csproj.AssemblyReference.cache
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\obj\Debug\ToyRobotPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\obj\Debug\ToyRobotPuzzle.exe
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobotPuzzle\obj\Debug\ToyRobotPuzzle.pdb

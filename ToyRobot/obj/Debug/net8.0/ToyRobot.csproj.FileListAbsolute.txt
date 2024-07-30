@@ -1,0 +1,14 @@
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Users\ITC Dev\source\repos\ToyRobotPuzzle\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
