@@ -1,7 +1,8 @@
-Requirements
+**Requirements**
+
 Please use Visual Studio 2022 or a newer version to work with this project.
 
-Getting Started
+**Getting Started**
 1. Clone the Repository
 
 Use the following command to clone the repository:
